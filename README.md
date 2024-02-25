@@ -1,7 +1,6 @@
 # HOSTED
 
-https://main--contact-lists-cn.netlify.app/
-
+https://main--timely-lollipop-5e9c68.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
